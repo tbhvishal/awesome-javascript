@@ -23,6 +23,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [Editors](#editors)
   * [Documentation](#documentation)
   * Utilities
+    * [js-toolbox](https://github.com/tbhvishal/js-toolbox) - Lightweight zero-dependency utility library (<5KB)
     * [Files](#files)
     * [Functional Programming](#functional-programming)
     * [Reactive Programming](#reactive-programming)
